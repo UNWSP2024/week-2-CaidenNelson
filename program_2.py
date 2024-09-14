@@ -1,5 +1,5 @@
 
-def average_age():t
+def average_age():
 #Average age of five friends
 #programmer = Caiden Nelosn
 #Date created 9/13/24
